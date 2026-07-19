@@ -291,31 +291,19 @@ Experienced in ERP-driven order management and business operations
 
 ### 🏢 Business Operations & Governance
 
-<img src="https://img.shields.io/badge/Cross--Functional%20Collaboration-Expert-F2C811 ?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Stakeholder%20Management-Advanced-34495E?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Customer%20Management-Advanced-34495E?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Sales%20Operations-Advanced-34495E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Cross--Functional%20Collaboration-Expert-34495E?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/Data%20Governance-Advanced-34495E?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/Master%20Data%20Management%20(MDM)-Advanced-34495E?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Data%20Quality%20Management-Advanced-34495E?style=for-the-badge"/>
-
 <img src="https://img.shields.io/badge/CRM%20Governance-Advanced-34495E?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/KPI%20Governance-Advanced-34495E?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/Business%20Process%20Governance-Advanced-34495E?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/Compliance%20%26%20Audit-Advanced-34495E?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Data%20Validation-Expert-F2C811 ?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Reporting%20%26%20Analytics-Expert-F2C811 ?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Reporting%20%26%20Analytics-Expert-34495E?style=for-the-badge"/>
 
 </td>
 
