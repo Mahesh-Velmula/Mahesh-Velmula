@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,25:0d0221,60:16213e,100:0f3460&height=280&section=header&text=Mahesh%20Velmula&fontSize=55&fontColor=4d9de0&animation=fadeIn&fontAlignY=42&desc=⚡%20Business%20Operations%20Analyst%20%7C%20Order%20Management%20%7C%20Supply%20Chain%20%7C%20AI%20Automation%20⚡&descAlignY=62&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,25:0d0221,60:16213e,100:0f3460&height=280&section=header&text=Mahesh%20Velmula&fontSize=55&fontColor=4d9de0&animation=fadeIn&fontAlignY=42&desc=⚡💼%20Business%20Operations%20Analyst%20%7C%20📋Order%20Management%20%7C%20📦Supply%20Chain%20%7C%20🤖AI%20Automation%20⚡&descAlignY=62&descSize=18" width="100%"/>
 
 <br/>
 
