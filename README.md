@@ -465,30 +465,41 @@ Collaborated on the development of a **Sales Order Review Application** designed
 
 ## 🌐 Languages
 
- 🇬🇧 **English** - Professional Proficiency 
- 
- 🇮🇳 **Hindi** - Native Proficiency 
- 
- 🏳️ **Telugu** - Native Proficiency 
+<div align="center">
+
+<img src="https://img.shields.io/badge/🇬🇧%20English-Professional%20Proficiency-4D9DE0?style=for-the-badge&labelColor=0D0221"/>
+<img src="https://img.shields.io/badge/🇮🇳%20Hindi-Native-4D9DE0?style=for-the-badge&labelColor=0D0221"/>
+<img src="https://img.shields.io/badge/🇮🇳%20Telugu-Native-4D9DE0?style=for-the-badge&labelColor=0D0221"/>
+
+</div>
 
 ---
 
 ## 📬 Get In Touch
 
-<div align="Left">
+<div align="center">
 
+<a href="YOUR_RESUME_LINK">
+<img src="https://img.shields.io/badge/📄%20Resume-Download-4D9DE0?style=for-the-badge&labelColor=0D0221"/>
+</a>
 
- 📄 Resume  [Download Resume](YOUR_RESUME_LINK) 
- 
- 📧 **Email**  [maheshvelmula12017@gmail.com](mailto:maheshvelmula12017@gmail.com) 
- 
- 📞 **Phone**  [+91 8096199301](tel:+918096199301) 
- 
- 💬 WhatsApp  [Chat on WhatsApp](https://wa.me/918096199301?text=Hi%20Mahesh%2C%20I%20viewed%20your%20portfolio%20and%20would%20like%20to%20connect.) 
- 
- 💼 **LinkedIn**  [linkedin.com/in/mahesh-velmula-a67636274](https://linkedin.com/in/mahesh-velmula-a67636274) 
- 
- 📍 **Location**  Hyderabad, India 
+<a href="mailto:maheshvelmula12017@gmail.com">
+<img src="https://img.shields.io/badge/📧%20Email-Contact-4D9DE0?style=for-the-badge&labelColor=0D0221"/>
+</a>
+
+<a href="tel:+918096199301">
+<img src="https://img.shields.io/badge/📞%20Phone-%2B91%208096199301-4D9DE0?style=for-the-badge&labelColor=0D0221"/>
+</a>
+
+<a href="https://wa.me/918096199301?text=Hi%20Mahesh%2C%20I%20viewed%20your%20portfolio%20and%20would%20like%20to%20connect.">
+<img src="https://img.shields.io/badge/💬%20WhatsApp-Chat-4D9DE0?style=for-the-badge&labelColor=0D0221"/>
+</a>
+
+<a href="https://linkedin.com/in/mahesh-velmula-a67636274">
+<img src="https://img.shields.io/badge/💼%20LinkedIn-Connect-4D9DE0?style=for-the-badge&labelColor=0D0221"/>
+</a>
+
+<img src="https://img.shields.io/badge/📍%20Hyderabad-India-4D9DE0?style=for-the-badge&labelColor=0D0221"/>
 
 </div>
 
