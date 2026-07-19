@@ -380,6 +380,35 @@ Collaborated on the development of a **Sales Order Review Application** designed
 - 📊 Enabled better tracking of order review performance and compliance metrics
 - 🤝 Improved collaboration between Sales, Operations, and Customer Service teams
 
+
+---
+
+# 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mahesh-Velmula&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahesh-Velmula&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Mahesh-Velmula&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Mahesh-Velmula&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
 ---
 
 ## 🎓 Education
@@ -464,6 +493,26 @@ Collaborated on the development of a **Sales Order Review Application** designed
 </div>
 
 ---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Mahesh-Velmula&style=for-the-badge&label=PROFILE+VIEWS&color=4D9DE0" alt="Profile Views"/>
+&nbsp;
+<img src="https://img.shields.io/github/followers/Mahesh-Velmula?style=for-the-badge&logo=github&label=FOLLOWERS&color=4D9DE0" alt="Followers"/>
+&nbsp;
+<img src="https://img.shields.io/github/stars/Mahesh-Velmula?style=for-the-badge&logo=github&label=TOTAL+STARS&color=4D9DE0" alt="Stars"/>
+
+</div>
+
+---
+
+<br>
+
+<div align="center">
+
+### ⭐ *"Transforming Business Operations through Data, AI & Automation."*
+
+</div>
 
 <div align="center">
 
