@@ -504,7 +504,7 @@ https://img.shields.io/github/stars/Mahesh-Velmula/Mahesh-Velmula?style=for-the-
 <img src="https://img.shields.io/github/followers/Mahesh-Velmula?style=for-the-badge&logo=github&label=FOLLOWERS&color=0066FF" alt="Followers"/>
 &nbsp;
 <img src="https://img.shields.io/github/stars/Mahesh-Velmula?style=for-the-badge&logo=github&label=TOTAL+STARS&color=F2C811" alt="Stars"/>
-
+&nbsp;
 </div>
 
 ---
