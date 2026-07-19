@@ -261,11 +261,11 @@ Experienced in ERP-driven order management and business operations
 
 ### 🚚 Supply Chain Operations
 
-<img src="https://img.shields.io/badge/Order%20Management-Expert-00B894?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Order%20Management-Expert-F2C811?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Semiconductor%20Supply%20Chain-Expert-00B894?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Semiconductor%20Supply%20Chain-Expert-F2C811?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Fulfillment%20Operations-Expert-00B894?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Fulfillment%20Operations-Expert-F2C811?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/Shipment%20Planning-Advanced-00CEC9?style=for-the-badge"/>
 
@@ -289,15 +289,33 @@ Experienced in ERP-driven order management and business operations
 
 <td width="33%" align="center">
 
-### 🏢 Business Operations
+### 🏢 Business Operations & Governance
 
-<img src="https://img.shields.io/badge/Cross--Functional%20Collaboration-Expert-34495E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Cross--Functional%20Collaboration-Expert-F2C811 ?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Stakeholder%20Management-Advanced-34495E?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/Customer%20Management-Advanced-34495E?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/Sales%20Operations-Advanced-34495E?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Stakeholder%20Management-Advanced-34495E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data%20Governance-Advanced-34495E?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Master%20Data%20Management%20(MDM)-Advanced-34495E?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Data%20Quality%20Management-Advanced-34495E?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/CRM%20Governance-Advanced-34495E?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/KPI%20Governance-Advanced-34495E?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Business%20Process%20Governance-Advanced-34495E?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Compliance%20%26%20Audit-Advanced-34495E?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Data%20Validation-Expert-F2C811 ?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Reporting%20%26%20Analytics-Expert-F2C811 ?style=for-the-badge"/>
 
 </td>
 
