@@ -45,7 +45,6 @@
 <a href="https://wa.me/918096199301?text=Hi%20Mahesh%2C%20I%20viewed%20your%20portfolio%20and%20would%20like%20to%20connect.">
 <img src="https://img.shields.io/badge/💬%20WhatsApp%20Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
 </a>
-<a href="https://calendly.com/YOUR_USERNAME">
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mahesh%20Velmula-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mahesh-velmula-a67636274)
 [![Phone](https://img.shields.io/badge/Phone-%2B91%208096199301-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+918096199301)
 [![Location](https://img.shields.io/badge/Location-Hyderabad%2C%20India-FF6B6B?style=for-the-badge&logo=google-maps&logoColor=white)](https://maps.google.com/?q=Hyderabad,India)
@@ -480,7 +479,7 @@ Collaborated on the development of a **Sales Order Review Application** designed
 <div align="center">
 
 <a href="YOUR_RESUME_LINK">
-<img src="https://img.shields.io/badge/📄%20Resume-Download-4D9DE0?style=for-the-badge&labelColor=0D0221"/>
+<img src="https://img.shields.io/badge/📄%20Resume-Download-F2C811?style=for-the-badge&labelColor=0D0221"/>
 </a>
 
 <a href="mailto:maheshvelmula12017@gmail.com">
@@ -488,18 +487,18 @@ Collaborated on the development of a **Sales Order Review Application** designed
 </a>
 
 <a href="tel:+918096199301">
-<img src="https://img.shields.io/badge/📞%20Phone-%2B91%208096199301-4D9DE0?style=for-the-badge&labelColor=0D0221"/>
+<img src="https://img.shields.io/badge/📞%20Phone-%2B91%208096199301-0066FF?style=for-the-badge&labelColor=0D0221"/>
 </a>
 
 <a href="https://wa.me/918096199301?text=Hi%20Mahesh%2C%20I%20viewed%20your%20portfolio%20and%20would%20like%20to%20connect.">
-<img src="https://img.shields.io/badge/💬%20WhatsApp-Chat-4D9DE0?style=for-the-badge&labelColor=0D0221"/>
+<img src="https://img.shields.io/badge/💬%20WhatsApp-Chat-F2C811?style=for-the-badge&labelColor=0D0221"/>
 </a>
 
 <a href="https://linkedin.com/in/mahesh-velmula-a67636274">
 <img src="https://img.shields.io/badge/💼%20LinkedIn-Connect-4D9DE0?style=for-the-badge&labelColor=0D0221"/>
 </a>
 
-<img src="https://img.shields.io/badge/📍%20Hyderabad-India-4D9DE0?style=for-the-badge&labelColor=0D0221"/>
+<img src="https://img.shields.io/badge/📍%20Hyderabad-India-F2C8110?style=for-the-badge&labelColor=0D0221"/>
 
 </div>
 
@@ -507,11 +506,11 @@ Collaborated on the development of a **Sales Order Review Application** designed
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Mahesh-Velmula&style=for-the-badge&label=PROFILE+VIEWS&color=4D9DE0" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=Mahesh-Velmula&style=for-the-badge&label=PROFILE+VIEWS&color=F2C811" alt="Profile Views"/>
 &nbsp;
-<img src="https://img.shields.io/github/followers/Mahesh-Velmula?style=for-the-badge&logo=github&label=FOLLOWERS&color=4D9DE0" alt="Followers"/>
+<img src="https://img.shields.io/github/followers/Mahesh-Velmula?style=for-the-badge&logo=github&label=FOLLOWERS&color=0066FF" alt="Followers"/>
 &nbsp;
-<img src="https://img.shields.io/github/stars/Mahesh-Velmula?style=for-the-badge&logo=github&label=TOTAL+STARS&color=4D9DE0" alt="Stars"/>
+<img src="https://img.shields.io/github/stars/Mahesh-Velmula?style=for-the-badge&logo=github&label=TOTAL+STARS&color=F2C811" alt="Stars"/>
 
 </div>
 
