@@ -135,21 +135,16 @@ Experienced in ERP-driven order management and business operations
 <details>
 <summary>📋 <strong>View Key Responsibilities</strong></summary>
 
-- ✅ Review and validate sales Quotes, Purchase Orders, and BU approvals to ensure completeness and compliance with booking policies and SLAs
-- ✅ Enter customer orders accurately into ERP systems (SAP, Oracle), validating pricing, quantities, shipping terms, and customer information
-- ✅ Modify sales orders based on customer requests — delivery dates, materials, quantities, or partial shipment requirements
-- ✅ Manage customer orders end-to-end, ensuring timely and accurate processing aligned with production and delivery schedules
-- ✅ Monitor order status and proactively communicate updates to internal teams (Sales, Logistics, Finance, Operations) and customers
-- ✅ Investigate and resolve discrepancies in orders, pricing, and delivery schedules to minimize supply chain disruptions
-- ✅ Coordinate cross-functionally with Sales, Logistics, Finance, Legal, Operations, and IT
-- ✅ Generate invoices, process credit memos, and manage collections as part of the order-to-cash cycle
-- ✅ Handle customer queries via email, chat, and ticketing tools — primary POC for order-related inquiries
-- ✅ Generate and analyze operational reports to track KPIs — backlog, fulfillment rates, BU Review Reports
-- ✅ Record and update forecasts in the system as received from customers
-- ✅ Manage assigned cases in Salesforce and drive performance based on metrics and KPIs
-- ✅ Identify data/process issues and create/update SOPs upon process changes
-- ✅ Participate in system enhancements and new process releases
-- ✅ **Leverage AI, Copilot Agents, and predictive analytics** to automate routine tasks and enable intelligent process automation
+- ✅ Process **1,000+ customer orders per month** across **50+ customer accounts**, managing the complete Order-to-Cash (O2C) lifecycle from quotation and PO validation through booking, fulfillment, and shipment
+- ✅ Achieve **99%+ order-entry accuracy** and **99% on-time delivery** by validating pricing, materials, quantities, shipping terms, approvals, and customer information in **SAP** and **Oracle**
+- ✅ Monitor order backlog, delivery commitments, and exceptions while proactively mitigating supply, pricing, documentation, and fulfillment risks to ensure SLA compliance
+- ✅ Process sales-order modifications including delivery-date changes, quantity updates, material substitutions, and partial shipments while maintaining booking-policy compliance
+- ✅ Resolve **10–12 Salesforce cases** and customer inquiries daily with **95–98% TAT compliance**, coordinating with internal stakeholders to drive timely issue resolution
+- ✅ Partner with **Sales, Logistics, Finance, Legal, Operations, and IT** teams to resolve order-processing, pricing, delivery, and documentation challenges
+- ✅ Improved order-review efficiency by contributing to the development and rollout of a **Sales Order Review Application**, increasing TAT compliance from **90–93% to 95–98%**
+- ✅ Built a **Power BI dashboard** to provide real-time visibility into entered and pending orders, enabling faster prioritization and improved operational decision-making
+- ✅ Automated recurring operational reports using **n8n**, **Microsoft Copilot**, and AI-driven workflows, reducing manual effort while improving reporting accuracy and consistency
+- ✅ Support **SOP creation and updates**, **UAT**, production releases, and continuous process-improvement initiatives to enhance operational excellence
 
 </details>
 
