@@ -471,8 +471,8 @@ Collaborated on the development of a **Sales Order Review Application** designed
 
 <div align="center">
 
-<a href="YOUR_RESUME_LINK">
-<img src="https://img.shields.io/badge/📄%20Resume-Download-F2C811?style=for-the-badge&labelColor=0D0221"/>
+<a href="https://raw.githubusercontent.com/Mahesh-Velmula/Mahesh-Velmula/main/Resume.pdf" target="_blank">
+  <img src="https://img.shields.io/badge/📄%20Resume-Download-F2C811?style=for-the-badge&labelColor=0D0221" alt="Resume Download"/>
 </a>
 
 <a href="mailto:maheshvelmula12017@gmail.com">
