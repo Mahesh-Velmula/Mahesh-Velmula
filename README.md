@@ -462,7 +462,7 @@ Collaborated on the development of a **Sales Order Review Application** designed
 <img src="https://img.shields.io/badge/🇬🇧%20English-Professional%20Proficiency-4D9DE0?style=for-the-badge&labelColor=0D0221"/>
 <img src="https://img.shields.io/badge/🇮🇳%20Hindi-Native-4D9DE0?style=for-the-badge&labelColor=0D0221"/>
 <img src="https://img.shields.io/badge/🇮🇳%20Telugu-Native-4D9DE0?style=for-the-badge&labelColor=0D0221"/>
-https://img.shields.io/github/stars/Mahesh-Velmula/Mahesh-Velmula?style=for-the-badge
+
 </div>
 
 ---
