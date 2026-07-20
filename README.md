@@ -40,8 +40,6 @@
 
 </div>
 
-[![Email](https://img.shields.io/badge/Email-maheshvelmula12017%40gmail.com-4d9de0?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maheshvelmula12017@gmail.com)
-<a href="https://wa.me/918096199301?text=Hi%20Mahesh%2C%20I%20viewed%20your%20portfolio%20and%20would%20like%20to%20connect.">
 <img src="https://img.shields.io/badge/💬%20WhatsApp%20Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
 </a>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mahesh%20Velmula-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mahesh-velmula-a67636274)
