@@ -40,7 +40,6 @@
 
 </div>
 
-<img src="https://img.shields.io/badge/💬%20WhatsApp%20Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
 </a>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mahesh%20Velmula-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mahesh-velmula-a67636274)
 [![Phone](https://img.shields.io/badge/Phone-%2B91%208096199301-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+918096199301)
