@@ -16,36 +16,23 @@
 
 ---
 
-</div>
-
-<br>
-
-
 <div align="center">
 
 <a href="mailto:maheshvelmula12017@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
+  <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
 </a>
-
-
 <a href="https://linkedin.com/in/mahesh-velmula-a67636274">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
 </a>
-
-
 <a href="https://wa.me/918096199301">
-<img src="https://img.shields.io/badge/WhatsApp-Chat-green?style=for-the-badge&logo=whatsapp">
+  <img src="https://img.shields.io/badge/WhatsApp-Chat-green?style=for-the-badge&logo=whatsapp">
 </a>
-
+<a href="https://maps.google.com/?q=Hyderabad,India">
+  <img src="https://img.shields.io/badge/Location-Hyderabad%2C%20India-FF6B6B?style=for-the-badge&logo=google-maps&logoColor=white">
+</a>
 
 </div>
 
-</a>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mahesh%20Velmula-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mahesh-velmula-a67636274)
-[![Phone](https://img.shields.io/badge/Phone-%2B91%208096199301-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+918096199301)
-[![Location](https://img.shields.io/badge/Location-Hyderabad%2C%20India-FF6B6B?style=for-the-badge&logo=google-maps&logoColor=white)](https://maps.google.com/?q=Hyderabad,India)
-
-</div>
 
 ---
 
